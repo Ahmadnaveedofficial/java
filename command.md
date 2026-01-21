@@ -1,3 +1,6 @@
 avac -d . mypackage_name\*.java     
-<!-- run java file -->   javac filename.java
-                        java filename
+java mypackage.filename
+<!-- run java file -->   
+javac filename.java
+ java filename
+
