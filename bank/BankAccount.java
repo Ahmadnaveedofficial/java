@@ -32,4 +32,7 @@ public class BankAccount {
     public double getBalance() {
         return balance;
     }
+    static void main(String[] args){
+        
+    }
 }

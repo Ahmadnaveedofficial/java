@@ -1,7 +1,6 @@
 package bank;
 
-public class main {
-
+public class main BankAccount {
     public static void main() {
 
         BankAccount account = new BankAccount("Ahmad", 5000);
